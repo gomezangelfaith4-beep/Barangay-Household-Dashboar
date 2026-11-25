@@ -1,0 +1,2 @@
+
+# Makes the database folder a Python package.
